@@ -1,1 +1,5 @@
-https://github.com/darozarena/GPI2
+Hemos optado por elegir Windows para realizar nuestro proyecto ya que es el sistema operativo que más hemos utilizado todos los miembros del grupo.
+
+Como sistema de control de versiones vamos a utilizar GitHub porque nos lo ha recomendado Alberto y a nosotros no nos importaba utilizar uno u otro.
+
+Vamos a gestionar una aplicación Android.
